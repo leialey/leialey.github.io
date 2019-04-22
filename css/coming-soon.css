@@ -42,12 +42,13 @@ video {
 
 
 @media (pointer: coarse) and (hover: none) {
-  body {
+/*  body {
     background: url("../img/calculator1.png") #002E66 no-repeat center center scroll;
     background-position: cover;
-  }
+  }*/
   body video {
-    display: none;
+    top: 70%;
+    left: 50%;
   }
 }
 
