@@ -47,8 +47,7 @@ video {
     background-position: cover;
   }*/
   body video {
-    top: 70%;
-    left: 50%;
+    display: none;
   }
 }
 
